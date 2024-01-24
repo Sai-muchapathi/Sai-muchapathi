@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on React Projects.
 - 🌱 I’m currently learning Full Stack Development using different Front end frameworks.
 - 👯 I’m looking to collaborate on any projects on Full Stack applications that can be deployed to Cloud using tools.
