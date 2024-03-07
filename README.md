@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on any projects on Full Stack applications that can be deployed to Cloud using tools.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saikiran1908/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I can be both Introvert and Extrovert.
 
 ## 💻 Languages and Tools
 
